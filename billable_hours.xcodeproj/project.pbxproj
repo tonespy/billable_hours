@@ -23,6 +23,7 @@
 		D22F5D1722F232F00091A1CB /* BillableHoursUI+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D22F5D1622F232F00091A1CB /* BillableHoursUI+Extension.swift */; };
 		D22F5D1922F2D0600091A1CB /* QuantityTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D22F5D1822F2D0600091A1CB /* QuantityTextField.swift */; };
 		D22F5D1C22F2D5700091A1CB /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D22F5D1B22F2D5700091A1CB /* Date+Extension.swift */; };
+		D22F5D1E22F2F4EB0091A1CB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D22F5D1D22F2F4EB0091A1CB /* README.md */; };
 		D2E32C7122F162410028C1F1 /* BillableHoursPasswordField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E32C7022F162410028C1F1 /* BillableHoursPasswordField.swift */; };
 		D2E32C7322F1625F0028C1F1 /* BaseTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E32C7222F1625F0028C1F1 /* BaseTextField.swift */; };
 		D2E32C7622F162BC0028C1F1 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E32C7522F162BC0028C1F1 /* UIColor+Extension.swift */; };
@@ -89,6 +90,7 @@
 		D22F5D1622F232F00091A1CB /* BillableHoursUI+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BillableHoursUI+Extension.swift"; sourceTree = "<group>"; };
 		D22F5D1822F2D0600091A1CB /* QuantityTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityTextField.swift; sourceTree = "<group>"; };
 		D22F5D1B22F2D5700091A1CB /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
+		D22F5D1D22F2F4EB0091A1CB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D2E32C7022F162410028C1F1 /* BillableHoursPasswordField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillableHoursPasswordField.swift; sourceTree = "<group>"; };
 		D2E32C7222F1625F0028C1F1 /* BaseTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseTextField.swift; sourceTree = "<group>"; };
 		D2E32C7522F162BC0028C1F1 /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 		D21BE77E22EEDA1C00EA1D6D = {
 			isa = PBXGroup;
 			children = (
+				D22F5D1D22F2F4EB0091A1CB /* README.md */,
 				D21BE78922EEDA1C00EA1D6D /* billable_hours */,
 				D21BE79E22EEDA1E00EA1D6D /* billable_hoursTests */,
 				D21BE7A922EEDA1E00EA1D6D /* billable_hoursUITests */,
@@ -534,6 +537,7 @@
 			files = (
 				D21BE79522EEDA1E00EA1D6D /* LaunchScreen.storyboard in Resources */,
 				D21BE79222EEDA1E00EA1D6D /* Assets.xcassets in Resources */,
+				D22F5D1E22F2F4EB0091A1CB /* README.md in Resources */,
 				D21BE79022EEDA1C00EA1D6D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
