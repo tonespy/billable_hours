@@ -7,7 +7,6 @@ target 'billable_hours' do
   
   # UI
   pod 'IQKeyboardManagerSwift'
-  pod 'IQDropDownTextField'
 
   # Pods for billable_hours
 
